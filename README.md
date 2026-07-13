@@ -1,3 +1,4 @@
+During my 1st semester of BCA, I built a Rock Paper Scissors Game using HTML, CSS, and JavaScript.
 Rock Paper Scissors Game
 A simple browser-based Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 Features
